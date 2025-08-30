@@ -109,6 +109,4 @@ Performance scores and confusion matrices for multiple machine learning models.
 
 ![Model Scores and Confusion Matrices](./score%20and%20confusion%20matrics%20for%20models.jpg)
 
----
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+--- 
